@@ -1,0 +1,7 @@
+{
+  "appId": "com.fasttrack.app",
+  "appName": "FirebaseAuthWithIonicCapacitorApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

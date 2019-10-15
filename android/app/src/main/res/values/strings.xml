@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FirebaseAuthWithIonicCapacitorApp</string>
+    <string name="title_activity_main">FirebaseAuthWithIonicCapacitorApp</string>
+    <string name="package_name">com.fasttrack.app</string>
+    <string name="fileprovider_authority">com.fasttrack.app.fileprovider</string>
+    <string name="custom_url_scheme">com.fasttrack.app</string>
+</resources>
