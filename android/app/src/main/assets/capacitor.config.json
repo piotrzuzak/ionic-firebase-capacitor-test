@@ -3,5 +3,15 @@
   "appName": "FirebaseAuthWithIonicCapacitorApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "CapacitorFirebaseAuth": {
+      "providers": ["google.com"],
+      "languageCode": "en",
+      "nativeAuth": false,
+      "permissions": {
+           "google": ["profile", "https://www.googleapis.com/auth/drive"]
+       }
+    }
+  }
 }
