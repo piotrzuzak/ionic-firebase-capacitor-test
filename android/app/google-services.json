@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769274712507",
+    "firebase_url": "https://fasttrack-250918.firebaseio.com",
+    "project_id": "fasttrack-250918",
+    "storage_bucket": "fasttrack-250918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769274712507:android:1c72b3b708a9c5463fb49e",
+        "android_client_info": {
+          "package_name": "com.fasttrack.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769274712507-cd2s12mrff90pnmh0o666907qm7ude70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasttrack.app",
+            "certificate_hash": "ed3a438b6aeed46ec799217585a72949f4695794"
+          }
+        },
+        {
+          "client_id": "769274712507-l2el8crtv5q23440gi0hjg9d0q32e54j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtro1CEQ7b3hEMf88hzqF4yIGyR4PJjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769274712507-l2el8crtv5q23440gi0hjg9d0q32e54j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
